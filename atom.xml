@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://test.xelz.info/atom.xml" rel="self"/>
+  <link href="http://test.xelz.info/"/>
+  <updated>2014-09-30T11:28:25+08:00</updated>
+  <id>http://test.xelz.info/</id>
+  <author>
+    <name><![CDATA[xelz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://test.xelz.info/blog/2014/09/30/hello-world/"/>
+    <updated>2014-09-30T10:50:51+08:00</updated>
+    <id>http://test.xelz.info/blog/2014/09/30/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  
+</feed>
