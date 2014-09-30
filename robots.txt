@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://test.xelz.info/sitemap.xml 
+Sitemap: http://test.xelz.info/octopress/sitemap.xml 
